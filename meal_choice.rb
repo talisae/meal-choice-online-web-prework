@@ -5,4 +5,4 @@ end
 
 def meal_choice (vegan)
   puts "vegan"
-ends
+end
