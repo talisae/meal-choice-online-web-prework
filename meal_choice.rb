@@ -1,4 +1,7 @@
 def meal_choice("meat")
   puts "meat"
-  return "#{meal_choice}"
+end
+
+def meal_choice(meal = "vegan")
+  puts "#{meal}"
 end
